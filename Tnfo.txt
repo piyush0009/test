@@ -1,5 +1,5 @@
 Welcome to the infomation file which you can get compelete information about the project.
-Info:
+Info:new
 firatname
 lastname
 address
